@@ -64,7 +64,7 @@
     "mocha": "^4.1.0",
     "mochawesome": "^3.0.1",
     "mustache": "^2.3.0",
-    "rollup": "^0.54.0",
+    "rollup": "^0.68.2",
     "rollup-plugin-alias": "^1.4.0",
     "rollup-plugin-babel": "^3.0.3",
     "rollup-plugin-cleanup": "^2.0.0",
